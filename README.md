@@ -76,5 +76,3 @@ python filters.py
 - The project uses various image filtering techniques to detect features in images
 - Results are saved in corresponding output directories
 - Parameters can be adjusted in the respective scripts for different detection behaviors
-
-This repository provides practical implementations of fundamental computer vision algorithms, serving as a good reference for learning and experimenting with image processing techniques.
